@@ -1,0 +1,18 @@
+.image{
+    background-image:url('src\assets\o_1.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.buttonimg
+{
+    display: block;
+    margin: auto;
+}
+
+.outimg
+{
+    display: block;
+    margin: auto;
+}

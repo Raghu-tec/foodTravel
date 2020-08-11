@@ -1,0 +1,9 @@
+.col-2{
+    position: relative;
+    width: 100%;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+.container-lg {
+ background-color: rgb(247, 240, 240);
+}

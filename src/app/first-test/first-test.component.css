@@ -1,0 +1,9 @@
+.style{
+margin-bottom: auto;
+}
+
+.image{
+    background-image:url('assets\2.JPG');
+    background-size: cover; 
+    height: 30em;
+}

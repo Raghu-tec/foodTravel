@@ -1,0 +1,22 @@
+.image{
+    background-image:url('assets/senthil.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.buttonimg
+{
+    display: block;
+    margin: auto;
+}
+
+.templeimg
+{
+    display: block;
+    margin: auto;
+}
+
+.sample{
+    display: none;
+}
